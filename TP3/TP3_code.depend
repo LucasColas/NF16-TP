@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1648884893 source:c:\users\lucas\desktop\cours\nf16\tp\tp3\tp3_code\tp3.c
+	<stdio.h>
+	<string.h>
+	"tp3.h"
+	<stdlib.h>
+
+1648885063 c:\users\lucas\desktop\cours\nf16\tp\tp3\tp3_code\tp3.h
+
+1648885409 source:c:\users\lucas\desktop\cours\nf16\tp\tp3\tp3_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tp3.h"
+
